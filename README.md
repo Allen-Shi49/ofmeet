@@ -1,0 +1,2 @@
+# ofmeet
+Openfire Meeting Plugin
